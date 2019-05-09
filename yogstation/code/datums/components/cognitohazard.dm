@@ -30,4 +30,4 @@
       last_proccess = world.time
     if(L.stat == CONSCIOUS && prob(5))
       flash_color(L, flash_color = list("#FFA500", "#FFA500", "#FFA500", rgb(0,0,0)), flash_time = 50)
-      L.say(pick('ORANGE MAN BAD!!', '4dplanner ir orange man salt!!', 'reality cannot limit me anymore!!', 'Rivert slip nerf!!','DEBASE WEN!!')) //please i need more jokes
+      L.say(pick("ORANGE MAN BAD!!", "4dplanner ir orange man salt!!", "reality cannot limit me anymore!!", "Rivert slip nerf!!", "DEBASE WEN!!")) //please i need more jokes
