@@ -1,5 +1,4 @@
 /datum/component/cognitohazard
-	var/brain_damage = 1
 	var/other_effect = NONE
 	var/cooldown = 50
 	var/last_process = 0
