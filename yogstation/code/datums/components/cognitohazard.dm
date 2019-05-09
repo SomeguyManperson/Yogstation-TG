@@ -24,7 +24,7 @@
     last_process = world.time
 
 /datum/component/cognitohazard/proc/do_other_effect(mob/living/L)
-  if(other_effect == 'orange)
+  if(other_effect == "orange")
     if(last_process + cooldown < world.time)
       to_chat(L, "<span class='warning'>You feel something orange closing off your thoughts...</span>")
       last_proccess = world.time
